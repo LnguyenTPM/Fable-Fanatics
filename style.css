@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(247, 238, 215, 0.671);
+  background-color: rgba(243, 238, 224, 0.671);
 }
 body h1 {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -61,6 +61,6 @@ hr {
   width: 400px center;
   background:rgba(230, 199, 159, 0.836);
   border: 5px solid black;
-  padding: 30px;
+  padding: 25px;
 }
 

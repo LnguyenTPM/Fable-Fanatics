@@ -59,7 +59,7 @@ hr {
 
 .border-box {
   width: 400px center;
-  background:burlywood;
+  background:rgba(230, 199, 159, 0.836);
   border: 5px solid black;
   padding: 30px;
 }
